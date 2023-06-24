@@ -45,3 +45,16 @@ sudo apt-get install python3-tk
 ## Uso
 
 Después de instalar las dependencias requeridas, simplemente ejecute el script en Python. Aparecerá una ventana de diálogo que le pedirá que seleccione una imagen. Después de seleccionar la imagen, el programa creará un GIF rotativo a partir de la imagen y lo guardará como 'miImagen.gif' en el mismo directorio en el que se ejecuta el script.
+
+## Ajustar la velocidad del GIF
+
+Si deseas aumentar la velocidad del GIF generado, puedes hacerlo con la ayuda de herramientas en línea, como [EZGIF.com](https://ezgif.com/speed). EZGIF es una plataforma en línea gratuita que ofrece una variedad de herramientas de edición de GIF. Sigue los pasos a continuación para ajustar la velocidad de tu GIF:
+
+1. Ve a [https://ezgif.com/speed](https://ezgif.com/speed).
+2. Haz clic en "Seleccionar archivo" y elige el GIF que quieras acelerar.
+3. Haz clic en "Subir" para cargar tu GIF.
+4. Después de que se haya cargado el archivo, puedes ver una opción para cambiar la velocidad de tu GIF. Ingresa un porcentaje mayor al 100% para aumentar la velocidad del GIF.
+5. Haz clic en "Cambiar la velocidad del GIF" para aplicar los cambios.
+6. Finalmente, puedes descargar el GIF más rápido haciendo clic en "Guardar".
+
+Por favor, ten en cuenta que al aumentar la velocidad del GIF, estás aumentando la cantidad de fotogramas que se muestran por segundo, lo que puede hacer que el GIF parezca más corto.
